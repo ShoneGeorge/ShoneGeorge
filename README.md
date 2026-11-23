@@ -22,10 +22,6 @@ I'm a **Research Technical Specialist in Digital Manufacturing** at Coventry Uni
 
 <img src="assets/system-map.png" alt="Machine-to-AI workflow from robots and sensors through messaging and analytics to local AI" width="100%" />
 
-<p align="center">
-  <img src="assets/robot-contribution-loop.gif" alt="Stylised animated robot arm interacting with green GitHub contribution squares" width="100%" />
-</p>
-
 ## 🔧 Things I've been building
 
 | Workstream | What it means in practice | Current direction |
